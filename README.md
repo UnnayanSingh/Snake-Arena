@@ -23,8 +23,9 @@ Enter the arena, eat food, grow longer, and try to survive as long as possible!
 ---
 
 ## 🔗 Live Demo
-
-  ```https://unnayansingh.github.io/Snake-Arena```
+```
+https://unnayansingh.github.io/Snake-Arena
+```
 
 ---
 
